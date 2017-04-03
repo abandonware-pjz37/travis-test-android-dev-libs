@@ -1,1 +1,0 @@
-# travis-test-android-dev-libs
